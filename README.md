@@ -35,9 +35,9 @@ Ability to navigate
 
 ## Overview
 
-* [Repo codes]()
+* [Repo codes](https://github.com/ijayhub/eatup-website)
 
-* [Hosted link]()
+* [Hosted link](up-eat.netlify.app)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
