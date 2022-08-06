@@ -27,7 +27,7 @@
 
 ## About The Project
 
-Tailwind css was used to create this project.
+Eat website is a website created to display meals.Tailwind css was used to create this project.
 
 **Features**
 ```
