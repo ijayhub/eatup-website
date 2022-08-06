@@ -48,7 +48,7 @@ Ability to navigate
 
 * [Tailwind css](https://tailwindcss.com/)
 
-* [Next](https://nextjs.org/learn/basics/create-nextjs-app)
+* [Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
 
 
