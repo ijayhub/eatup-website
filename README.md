@@ -18,6 +18,7 @@
             <li><a href="#built-with">Built With</a></li>
             <li><a href="#getting-started">Getting Started</a></li>
             <li><a href="#available-script">Available Script</a></li>
+            <li><a href="#dependencies">Dependencies</a></li>
             <li><a href="#acknowledgement">Acknowledgement</a></li>
         </ul>
     </li>      
@@ -43,9 +44,6 @@ Ability to navigate
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
-
-* [React](https://reactjs.org/)
-
 * [Tailwind css](https://tailwindcss.com/)
 
 * [Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
@@ -73,6 +71,10 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Dependencies
+
+* [React](https://reactjs.org/)
 
 ### Acknowledgement
 
